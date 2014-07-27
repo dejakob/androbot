@@ -1,0 +1,13 @@
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\bin\Release\androbot.exe.config
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\bin\Release\androbot.exe
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\bin\Release\androbot.pdb
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.csprojResolveAssemblyReference.cache
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\MainWindow.baml
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\MainWindow.g.cs
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\App.g.cs
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot_MarkupCompile.cache
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.g.resources
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.Properties.Resources.resources
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.csproj.GenerateResource.Cache
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.exe
+C:\Users\Jakob\IDriveSync\android\androbot\androbot\androbot\obj\Release\androbot.pdb
